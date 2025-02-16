@@ -32317,7 +32317,7 @@ A.Cn.prototype={
 L(a){var s,r=null,q=A.a09(r,r,r,r,r,r,r,r,r,B.l,r,r,r,r,r,r,r,B.J4,r),p=A.x(t.LH,t.nd)
 for(s=0;s<6;++s)p.n(0,B.jE[s],B.w8)
 q=A.aay(B.v6,r,r,new A.tX(p),B.fS,B.ay,new A.oy(q),r)
-return new A.tt(A.aG(["/",new A.WG(),"/gallery",new A.WH(),"/contact",new A.WI()],t.N,t.Ab),"/","Flutter Gallery App",q,r)}}
+return new A.tt(A.aG(["/",new A.WG(),"/gallery",new A.WH(),"/contact",new A.WI()],t.N,t.Ab),"/","Jelena Milatovi\u0107",q,r)}}
 A.WG.prototype={
 $1(a){return B.yU},
 $S:289}
