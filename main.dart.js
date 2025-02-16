@@ -32680,7 +32680,7 @@ return s},
 $S:31}
 A.kP.prototype={
 M(a){var s=this,r=null,q=t.E
-return A.aaW(A.a9C(A.b([s.v0(a,"Home","/"),s.v0(a,"Gallery","/gallery"),s.v0(a,"Contact","/contact")],q),!1,B.aB,80),A.OF(new A.cP(B.z0,A.Az(A.b([B.Lp,B.hS,A.js(A.ny(r,B.Ff,B.ae,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.gVz(),r,r,r,!1,B.bF),B.as,r,r,r)],q),B.bp,B.fZ,B.c2),r),r,r))},
+return A.aaW(A.a9C(A.b([s.v0(a,"Home","/"),s.v0(a,"Gallery","/gallery"),s.v0(a,"Contact","/contact")],q),!1,B.aB,72),A.OF(new A.cP(B.z0,A.Az(A.b([B.Lp,B.hS,A.js(A.ny(r,B.Ff,B.ae,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.gVz(),r,r,r,!1,B.bF),B.as,r,r,r)],q),B.bp,B.fZ,B.c2),r),r,r))},
 v0(a,b,c){var s,r,q=null,p=A.o0(a,t.X),o=(p==null?q:p.b.a)===c
 p=o?B.l:B.y
 p=A.a0J(q,q,p,q,q,q,q,q,q,q,q,q,B.fz,q,new A.cl(A.hP(8),B.o),q,q,q,q)
@@ -32714,7 +32714,7 @@ A.Xh(this.a,this.b,s,s)},
 $S:0}
 A.nw.prototype={
 M(a){var s=null,r=new A.qA(new A.RR(),s,s,s,t.Mg)
-return A.aaW(A.a9C(A.b([this.vL(a,"Home","/"),this.vL(a,"Gallery","/gallery"),this.vL(a,"Contact","/contact")],t.E),!1,B.aB,80),new A.qC(r,new A.RS(),r,s,t.Tt))},
+return A.aaW(A.a9C(A.b([this.vL(a,"Home","/"),this.vL(a,"Gallery","/gallery"),this.vL(a,"Contact","/contact")],t.E),!1,B.aB,72),new A.qC(r,new A.RS(),r,s,t.Tt))},
 vL(a,b,c){var s,r,q=null,p=A.o0(a,t.X),o=(p==null?q:p.b.a)===c
 p=o?B.l:B.y
 p=A.a0J(q,q,p,q,q,q,q,q,q,q,q,q,B.fz,q,new A.cl(A.hP(8),B.o),q,q,q,q)
@@ -32740,7 +32740,7 @@ A.Xh(this.a,this.b,s,s)},
 $S:0}
 A.nC.prototype={
 M(a){var s=null,r=t.E
-return A.aaW(A.a9C(A.b([this.w6(a,"Home","/"),this.w6(a,"Gallery","/gallery"),this.w6(a,"Contact","/contact")],r),!1,B.aB,80),A.F0(B.dk,A.b([A.aaN(0,A.aan("assets/images/home/home_image.jpg",B.is)),A.OF(new A.cP(B.yW,A.Az(A.b([B.Lr,B.hS,new A.Bg(new A.Ss(a),s,s,s,A.ana(s,s,B.l,s,s,s,s,s,s,B.i,s,s,B.z2,s,new A.cl(A.hP(8),B.o),s,s,s,s),s,s,!1,s,!0,B.Lm,s),B.E4],r),B.aC,B.fZ,B.h_),s),s,s)],r),B.es))},
+return A.aaW(A.a9C(A.b([this.w6(a,"Home","/"),this.w6(a,"Gallery","/gallery"),this.w6(a,"Contact","/contact")],r),!1,B.aB,72),A.F0(B.dk,A.b([A.aaN(0,A.aan("assets/images/home/home_image.jpg",B.is)),A.OF(new A.cP(B.yW,A.Az(A.b([B.Lr,B.hS,new A.Bg(new A.Ss(a),s,s,s,A.ana(s,s,B.l,s,s,s,s,s,s,B.i,s,s,B.z2,s,new A.cl(A.hP(8),B.o),s,s,s,s),s,s,!1,s,!0,B.Lm,s),B.E4],r),B.aC,B.fZ,B.h_),s),s,s)],r),B.es))},
 w6(a,b,c){var s,r,q=null,p=A.o0(a,t.X),o=(p==null?q:p.b.a)===c
 p=o?B.l:B.y
 p=A.a0J(q,q,p,q,q,q,q,q,q,q,q,q,B.fz,q,new A.cl(A.hP(8),B.o),q,q,q,q)
