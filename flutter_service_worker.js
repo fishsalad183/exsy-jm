@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a484372741dba31e143cfb2849942746",
-"assets/AssetManifest.bin.json": "bb10142104e1d4b17fc1fd5be9bf8bdc",
-"assets/AssetManifest.json": "467b32f231a2f4454ff0747c38917ce2",
+const RESOURCES = {"assets/AssetManifest.bin": "64bcc7c2c01203e52e609ba070ec7932",
+"assets/AssetManifest.bin.json": "0b1f6943067c5a517090d34b1f500288",
+"assets/AssetManifest.json": "792c98eebe0c88f8f687c05e6710f97a",
+"assets/assets/data/albums.json": "4946d54fde2759a30447638808922dbd",
 "assets/assets/data/artworks.json": "643cd713b1aaecb95580899e8de20f5f",
 "assets/assets/images/artworks/Jelena%2520Milatovic%25CC%2581%2520-%2520Autoportret%2520-%2520Ugljen%2520na%2520papiru%2520-%2520200x150cm%2520-%25202021.jpg": "6bed231a3b9d2146cccc77ea1cab9127",
 "assets/assets/images/artworks/Jelena%2520Milatovic%25CC%2581%2520-%2520Bez%2520naziva%2520-%2520Ugljen%2520na%2520papiru%2520-%2520200x150cm.jpg": "c81691b7215e1af29aa045c6a5f8dfde",
@@ -31,7 +32,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a484372741dba31e143cfb2849942746
 "assets/assets/images/home/home_image.jpg": "5e184d711a21ec5b9a10a7c7cff02275",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "0db35ae7a415370b89e807027510caf0",
-"assets/NOTICES": "b6d5193c164e4e034810f6113ab15d1f",
+"assets/NOTICES": "6f37562518ec674a4127b889bdd705d7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "43e78351341deb648f1f98711e488307",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "3ca5dc7621921b901d513cc1ce23788c",
@@ -49,14 +50,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "a484372741dba31e143cfb2849942746
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "85cbe157eec02fc4c1deef894cff7f59",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "99f5016589e28d36665216892e56ed9f",
+"flutter_bootstrap.js": "3161209a93f0561b45fca03647c23065",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "f26a6f10f158c38f461a9620ce40f02d",
 "/": "f26a6f10f158c38f461a9620ce40f02d",
-"main.dart.js": "4e368124e68b66b8c1f3ac24d75b1f44",
+"main.dart.js": "ce547e1ee474316d5a6a7beb8c2a0c33",
 "manifest.json": "a2a85110419bb75ea97dba131bfa2a3e",
 "version.json": "b8b6c0c7399e981b54b26fba3661d2f3"};
 // The application shell files that are downloaded before a service worker can
