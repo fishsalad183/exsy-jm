@@ -36265,8 +36265,9 @@ s.e=s.f.r0()},
 I(a){var s=this
 return A.al1(A.ajM(A.b([s.Ab(a,"Home","/"),s.Ab(a,"Gallery","/gallery"),s.Ab(a,"Contact","/contact")],t.F),!1,B.at,72),new A.nu(new A.adG(s),null))},
 Ab(a,b,c){var s,r,q,p=null,o=A.qy(a,t.X)
-if((o==null?p:o.b.a)!==c)s=c==="/gallery"&&this.d!=null
-else s=!0
+if(o==null)o=p
+else{o=o.b.a
+o=o==null?p:B.d.u(o,"/gallery")}s=o===!0&&c==="/gallery"
 o=s?B.k:B.w
 o=A.zi(p,p,o,p,p,p,p,p,p,p,p,p,B.i8,p,new A.cf(A.iQ(8),B.n),p,p,p,p)
 r=s?p:new A.ady(a,c)
