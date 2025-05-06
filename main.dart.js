@@ -36126,7 +36126,7 @@ if(B.d.cF(a,"assets/images/artworks/")){s=a.toLowerCase()
 r=B.d.wm(s,".jpg")||B.d.wm(s,".jpeg")||B.d.wm(s,".png")}return r},
 $S:39}
 A.mL.prototype={
-I(a){var s=this,r=null,q=A.bm(a,r,t.w).w.a.a<=600,p=q?0:240,o=q?r:A.dV(r,B.iO,B.D,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.Vu(a),r,r,r,!1,B.ai),n=t.F
+I(a){var s=this,r=null,q=A.bm(a,r,t.w).w.a.a<=1200,p=q?0:240,o=q?r:A.dV(r,B.iO,B.D,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.Vu(a),r,r,r,!1,B.ai),n=t.F
 return A.akY(A.ajI(A.b([s.zj(a,"Home","/"),s.zj(a,"Gallery","/gallery"),s.zj(a,"Contact","/contact")],n),!1,B.am,o,p,72),A.pp(new A.c4(B.Cb,A.kA(A.b([B.JH,B.x5,A.fM(A.dV(r,B.Js,B.D,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.ga4i(),r,r,r,!1,B.ai),B.aN,r,r,r,r)],n),B.bp,B.fm,B.aS),r),r,r))},
 zj(a,b,c){var s,r,q=null,p=A.qA(a,t.X),o=(p==null?q:p.b.a)===c
 p=o?B.l:B.w
@@ -36170,7 +36170,7 @@ ao(){var s=this
 s.aK()
 s.d=s.a.c
 s.e=s.f.r1()},
-I(a){var s=this,r=null,q=A.bm(a,r,t.w).w.a.a<=600,p=q?0:240,o=q?r:A.dV(r,B.iO,B.D,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.adt(a),r,r,r,!1,B.ai)
+I(a){var s=this,r=null,q=A.bm(a,r,t.w).w.a.a<=1200,p=q?0:240,o=q?r:A.dV(r,B.iO,B.D,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.adt(a),r,r,r,!1,B.ai)
 return A.akY(A.ajI(A.b([s.A5(a,"Home","/"),s.A5(a,"Gallery","/gallery"),s.A5(a,"Contact","/contact")],t.F),!1,B.am,o,p,72),new A.nw(new A.adu(s),r))},
 A5(a,b,c){var s,r,q,p=null,o=A.qA(a,t.X)
 if(o==null)o=p
@@ -36305,7 +36305,7 @@ A.adm.prototype={
 $1(a){return a.a===this.a.d},
 $S:314}
 A.qa.prototype={
-I(a){var s=null,r=A.bm(a,s,t.w).w.a.a<=600,q=r?0:240,p=r?s:A.dV(s,B.iO,B.D,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ZA(a),s,s,s,!1,B.ai),o=t.F
+I(a){var s=null,r=A.bm(a,s,t.w).w.a.a<=1200,q=r?0:240,p=r?s:A.dV(s,B.iO,B.D,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ZA(a),s,s,s,!1,B.ai),o=t.F
 q=A.ajI(A.b([this.Ax(a,"Home","/"),this.Ax(a,"Gallery","/gallery"),this.Ax(a,"Contact","/contact")],o),!1,B.am,p,q,72)
 o=A.b([A.akP(0,A.akp("assets/images/home/home_image.jpg",s,s,B.ki))],o)
 if(r)o.push(A.lk(s,A.pp(A.ed(s,B.Q0,B.q,s,s,s,s,s,B.C7,s),s,s),s,s,0,0,40,s))
