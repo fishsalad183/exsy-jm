@@ -3,14 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "94fb84601b55b8f8ae265aae47ff19e6",
-"assets/AssetManifest.bin.json": "466eb54e15e1956730069f13655d5d36",
-"assets/AssetManifest.json": "d8fff31bd218cb3049fe92d72fa7e60f",
-"assets/assets/data/albums.json": "9484a5eef2b4950ad12df12019c6c2c5",
-"assets/assets/data/artworks.json": "f16c97b2cf4eee97f3a639b988aa107d",
+const RESOURCES = {"assets/AssetManifest.bin": "b0c142ab3a4104dafd9e0abf8ca92669",
+"assets/AssetManifest.bin.json": "e2fd4fc8f413e176cb52a7d2eee0ab35",
+"assets/AssetManifest.json": "7e7b239f93dc1815f44642e910bb5f98",
+"assets/assets/data/albums.json": "aa27eda56390056ad6e3d17f5fdff24c",
+"assets/assets/data/artworks.json": "000f737bf219778e14f326e4275f3efe",
 "assets/assets/images/artworks/Jelena%2520Milatovi%25C4%2587%2520-%2520Bez%2520naziva%2520-%2520Ulje%2520na%2520glinenoj%2520plo%25C4%258Di%2520-%252015,5x14cm%2520-%25202025.png": "49d3cd23f27abf5729fb9126337ff05d",
 "assets/assets/images/artworks/Jelena%2520Milatovi%25C4%2587%2520-%2520Bez%2520naziva%2520-%2520Ulje%2520na%2520glinenoj%2520plo%25C4%258Di%2520-%252017x15,5cm%2520-%25202025.png": "b74b1f3c67b1c87dd198b0dda7d3bd6b",
 "assets/assets/images/artworks/Jelena%2520Milatovi%25C4%2587%2520-%2520Bez%2520naziva%2520-%2520Ulje%2520na%2520glinenoj%2520plo%25C4%258Di%2520-%252019,5x18cm%2520-%25202025.png": "e703a6aad26e02cb2e1f2b8b5e5d3007",
+"assets/assets/images/artworks/Jelena%2520Milatovi%25C4%2587%2520-%2520Pinjata%2520-%2520Ugljen%2520na%2520papiru%2520-%2520200x150cm%2520-%25202021.jpg": "2bd3cf76f0adb312fd5eff5775fe86d2",
 "assets/assets/images/artworks/Jelena%2520Milatovic%25CC%2581%2520-%2520Autoportret%2520-%2520Ugljen%2520na%2520papiru%2520-%2520200x150cm%2520-%25202021.jpg": "6bed231a3b9d2146cccc77ea1cab9127",
 "assets/assets/images/artworks/Jelena%2520Milatovic%25CC%2581%2520-%2520Bez%2520naziva%2520-%2520Ugljen%2520na%2520papiru%2520-%2520200x150cm%2520-%25202025.jpg": "a0f05ed2c642147225041e7d3c16e870",
 "assets/assets/images/artworks/Jelena%2520Milatovic%25CC%2581%2520-%2520Bez%2520naziva%2520-%2520Ugljen%2520na%2520papiru%2520-%2520200x150cm.jpg": "c81691b7215e1af29aa045c6a5f8dfde",
@@ -55,14 +56,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "94fb84601b55b8f8ae265aae47ff19e6
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "85cbe157eec02fc4c1deef894cff7f59",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "4c6bbc4c704c16df4cf866db04169602",
+"flutter_bootstrap.js": "26fe6d3713c0a76c56cbbeafd2677df3",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "f26a6f10f158c38f461a9620ce40f02d",
 "/": "f26a6f10f158c38f461a9620ce40f02d",
-"main.dart.js": "42323e5fb98394d1e52157028f5afa4b",
+"main.dart.js": "9cb3b62c3295c5bf94b362fd1d9719cd",
 "manifest.json": "a2a85110419bb75ea97dba131bfa2a3e",
 "version.json": "b8b6c0c7399e981b54b26fba3661d2f3"};
 // The application shell files that are downloaded before a service worker can
